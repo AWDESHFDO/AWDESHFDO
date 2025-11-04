@@ -7,9 +7,9 @@ I’ve had the opportunity to intern at WARAR Energy, where I contributed to pro
 I’m passionate about learning, collaborating, and building solutions that make power and energy systems more efficient and sustainable. Currently, I’m looking for opportunities (Summer 2026) to apply my skills and grow further in this field.
 
 
-I'm currently working on Power Electronics and Motor Drives
-I'm currently learning Altium Designer, Ansys Maxwell, Motor CAD
-I'm looking to collaborate on new innovative projects and team
+I'm currently working on Power Electronics and Motor Drives;
+I'm currently learning Altium Designer, Ansys Maxwell, Motor CAD;
+I'm looking to collaborate on new innovative projects and team.
 
 How to reach me:  Phone number : +1(979)326-8718;
                   Email        : awdeshfernando@tamu.edu;
