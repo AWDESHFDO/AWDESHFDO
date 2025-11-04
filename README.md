@@ -5,3 +5,12 @@ I completed my undergraduate degree in Electrical and Electronics Engineering fr
 I’ve had the opportunity to intern at WARAR Energy, where I contributed to projects related to renewable energy and converter topologies. Along the way, I’ve also presented research at the 13th International Conference at IIT Roorkee, which helped me strengthen my analytical and technical writing skills.
 
 I’m passionate about learning, collaborating, and building solutions that make power and energy systems more efficient and sustainable. Currently, I’m looking for opportunities (Summer 2026) to apply my skills and grow further in this field.
+
+
+I'm currently working on Power Electronics and Motor Drives
+I'm currently learning Altium Designer, Ansys Maxwell, Motor CAD
+I'm looking to collaborate on new innovative projects and team
+
+How to reach me:  Phone number : +1(979)326-8718
+                  Email        : awdeshfernando@tamu.edu
+                  Linkedin     : www.linkedin.com/in/awdeshfernando
