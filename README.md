@@ -11,6 +11,6 @@ I'm currently working on Power Electronics and Motor Drives
 I'm currently learning Altium Designer, Ansys Maxwell, Motor CAD
 I'm looking to collaborate on new innovative projects and team
 
-How to reach me:  Phone number : +1(979)326-8718
-                  Email        : awdeshfernando@tamu.edu
-                  Linkedin     : www.linkedin.com/in/awdeshfernando
+How to reach me:  Phone number : +1(979)326-8718;
+                  Email        : awdeshfernando@tamu.edu;
+                  Linkedin     : www.linkedin.com/in/awdeshfernando;
